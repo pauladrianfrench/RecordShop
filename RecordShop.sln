@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordShop.Web", "RecordShop\RecordShop.Web.csproj", "{B8025ABA-B82E-4295-9BA9-77EB1443CCD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordShop.Domain", "RecordShop.Domain\RecordShop.Domain.csproj", "{1BD1471D-2272-4FAB-8785-DC46E5691A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordShop.UnitTest", "RecordShop.UnitTest\RecordShop.UnitTest.csproj", "{F6E29F0E-89CD-4ABA-9A9E-6D83A64DBAD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordShop.Services", "RecordShop.Services\RecordShop.Services.csproj", "{6C6D4A1E-DBF8-4944-81E0-9F20358CA306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8025ABA-B82E-4295-9BA9-77EB1443CCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8025ABA-B82E-4295-9BA9-77EB1443CCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8025ABA-B82E-4295-9BA9-77EB1443CCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8025ABA-B82E-4295-9BA9-77EB1443CCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD1471D-2272-4FAB-8785-DC46E5691A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD1471D-2272-4FAB-8785-DC46E5691A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD1471D-2272-4FAB-8785-DC46E5691A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD1471D-2272-4FAB-8785-DC46E5691A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E29F0E-89CD-4ABA-9A9E-6D83A64DBAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E29F0E-89CD-4ABA-9A9E-6D83A64DBAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E29F0E-89CD-4ABA-9A9E-6D83A64DBAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E29F0E-89CD-4ABA-9A9E-6D83A64DBAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6D4A1E-DBF8-4944-81E0-9F20358CA306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6D4A1E-DBF8-4944-81E0-9F20358CA306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6D4A1E-DBF8-4944-81E0-9F20358CA306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6D4A1E-DBF8-4944-81E0-9F20358CA306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

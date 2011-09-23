@@ -1,0 +1,11 @@
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\RecordShop.UnitTest.dll
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\RecordShop.UnitTest.pdb
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\nunit.framework.dll
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\nunit.framework.xml
+C:\Projects\RecordShop\RecordShop.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RecordShop\RecordShop.UnitTest\obj\Debug\RecordShop.UnitTest.dll
+C:\Projects\RecordShop\RecordShop.UnitTest\obj\Debug\RecordShop.UnitTest.pdb
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\RecordShop.dll
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\RecordShop.Domain.dll
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\RecordShop.Domain.pdb
+C:\Projects\RecordShop\RecordShop.UnitTest\bin\Debug\RecordShop.pdb

@@ -1,0 +1,5 @@
+C:\Projects\RecordShop\RecordShop.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RecordShop\RecordShop.Domain\bin\Debug\RecordShop.Domain.dll
+C:\Projects\RecordShop\RecordShop.Domain\bin\Debug\RecordShop.Domain.pdb
+C:\Projects\RecordShop\RecordShop.Domain\obj\Debug\RecordShop.Domain.dll
+C:\Projects\RecordShop\RecordShop.Domain\obj\Debug\RecordShop.Domain.pdb

@@ -1,0 +1,7 @@
+C:\Projects\RecordShop\RecordShop\bin\RecordShop.dll
+C:\Projects\RecordShop\RecordShop\bin\RecordShop.pdb
+C:\Projects\RecordShop\RecordShop\bin\EntityFramework.dll
+C:\Projects\RecordShop\RecordShop\bin\EntityFramework.xml
+C:\Projects\RecordShop\RecordShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RecordShop\RecordShop\obj\Debug\RecordShop.dll
+C:\Projects\RecordShop\RecordShop\obj\Debug\RecordShop.pdb
